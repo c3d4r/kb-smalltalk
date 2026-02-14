@@ -1,0 +1,2 @@
+#!/bin/sh
+exec gst -f "$(dirname "$0")/kb.st" "$@"

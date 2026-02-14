@@ -22,7 +22,7 @@ See [SPEC.md](./SPEC.md) for the full specification. Key points:
 
 - **Language:** GNU Smalltalk (`gst`)
 - **Dependencies:** Standard library only
-- **Run:** `gst kb.st -- <command> [args]`
+- **Run:** `./kb <command> [args]` or `gst -f kb.st <command> [args]`
 
 ## Why Smalltalk
 
@@ -33,7 +33,7 @@ See [SPEC.md](./SPEC.md) for the full specification. Key points:
 
 ## Status
 
-- [ ] Core: parser, serializer, internal model
-- [ ] CLI: add, move, ls, board, show
-- [ ] Extension: blocked status + kb blocked command
-- [ ] Evaluation notes captured
+- [x] Core: parser, serializer, internal model
+- [x] CLI: add, move, ls, board, show, edit, log
+- [x] Extension: blocked status + kb blocked command
+- [x] Evaluation notes captured
