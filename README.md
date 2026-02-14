@@ -2,7 +2,7 @@
 
 GNU Smalltalk implementation of the `kb` kanban tool.
 
-**Part of the [Language Choice as Superpower](https://github.com/cedar/language_choice_as_superpower) research spike.**
+**Part of the 'Language Choice as Superpowerresearch' research spike.**
 
 ## What This Is
 
